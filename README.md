@@ -29,5 +29,12 @@ This script is a **Safe PoC**. It does not perform any malicious memory access o
 ## Documentation 
 For a deep dive into the Windows Internals, the CLR collapse syndrome, and the theoretical foundation of this evasion, read the full technical whitepaper: **Silencing the Silicon: ETW TI Evasion in Managed Environments via Controlled Exceptions**
 
+## Media & Video Demonstrations
+
+To see a step-by-step visual breakdown of telemetry blinding, EDR structural integrity testing, and live bypass proof under our experimental framework, check out our official video resource:
+
+🎥 Episode 1: The Telemetry Illusion: How We Blind Your EDR
+https://www.youtube.com/@Fortisec-Validation
+
 ## Disclaimer
 For Educational and Research Purposes Only. This tool is provided for security researchers, Red Teams, and Blue Teams to validate defensive postures and improve the resilience of endpoint sensors. FORTiSEC assumes no liability for the misuse of this code in unauthorized environments. Always operate strictly within controlled laboratory environments or under explicit, authorized engagement rules.
