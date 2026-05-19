@@ -27,7 +27,7 @@ This script is a **Safe PoC**. It does not perform any malicious memory access o
 4. Observe the clean evaluation of the AMSI signature and the absence of ETW TI context-injection logs in your EDR console.
 
 ## Documentation 
-For a deep dive into the Windows Internals, the CLR collapse syndrome, and the theoretical foundation of this evasion, read the full technical whitepaper: **Silencing the Silicon: ETW TI Evasion in Managed Environments via Controlled Exceptions**
+For a deep dive into the Windows Internals, the CLR collapse syndrome, and the theoretical foundation of this evasion, read the full technical whitepaper: **Silencing the Silicon: ETW TI Evasion in Managed Environments via Controlled Exceptions** https://medium.com/@adrianceperocorcho/silencing-the-silicon-etw-ti-evasion-in-managed-environments-via-controlled-exceptions-the-0a0294444000
 
 ## Media & Video Demonstrations
 
